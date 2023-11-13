@@ -9,3 +9,6 @@ ls -l
 ls -l
 cd ..
 ls -l
+vi .ssh/authorized_keys
+pwd
+sudo su - 

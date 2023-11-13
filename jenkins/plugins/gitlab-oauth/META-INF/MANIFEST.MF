@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: GitLab Authentication plugin
+Specification-Version: 1.18
+Implementation-Title: GitLab Authentication plugin
+Implementation-Version: 1.18
+Group-Id: org.jenkins-ci.plugins
+Artifact-Id: gitlab-oauth
+Short-Name: gitlab-oauth
+Long-Name: GitLab Authentication plugin
+Url: https://github.com/jenkinsci/gitlab-oauth-plugin
+Plugin-Version: 1.18
+Hudson-Version: 2.387.3
+Jenkins-Version: 2.387.3
+Plugin-Dependencies: caffeine-api:3.1.6-115.vb_8b_b_328e59d8,gitlab-api:
+ 5.2.0-86.v1ed41a_9cf486,apache-httpcomponents-client-4-api:4.5.14-150.v
+ 7a_b_9d17134a_5,git:5.0.2,jackson2-api:2.15.1-344.v6eb_55303dc3e,mailer
+ :448.v5b_97805e3767
+Plugin-Developers: Mohamed EL HABIB:mohamed-el-habib:mohamed.el-habib@di
+ gitaslbi.fr
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/gitlab-oauth-
+ plugin.git
+Plugin-ScmTag: gitlab-oauth-1.18
+Plugin-ScmUrl: https://github.com/jenkinsci/gitlab-oauth-plugin
+Plugin-GitHash: f9bdad3b2aca5973dc7639bafddc2280a4054aea
+Implementation-Build: f9bdad3b2aca5973dc7639bafddc2280a4054aea
+
